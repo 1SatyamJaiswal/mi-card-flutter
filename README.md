@@ -1,3 +1,6 @@
-# mi_card
+# Business Card
 
-A new Flutter project.
+A basic business card made on flutter using the Card widget.
+
+## Preview
+
